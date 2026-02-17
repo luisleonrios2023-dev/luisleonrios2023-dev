@@ -1,18 +1,3 @@
-Perfecto, Luis. Ahora sí tenemos material para hacer un README honesto, profesional y bien enfocado 👌
-
-Voy a posicionarte como:
-
-> 👨‍💻 Desarrollador con experiencia en entorno empresarial (mainframe + SQL)
-> 🚀 En transición estratégica hacia desarrollo web fullstack con Java & Spring Boot
-
-Eso es muy vendible si se redacta bien.
-
----
-
-Aquí tienes tu README listo para usar (lo puedes copiar directamente a tu `README.md` y luego ajustamos detalles si quieres):
-
----
-
 # 👋 Hola, soy Luis
 
 💻 Desarrollador de Software en España
@@ -131,13 +116,5 @@ Con interés en trabajo remoto en España y proyección futura a nivel internaci
 * LinkedIn: [Tu enlace aquí]
 
 ---
-
-Si quieres ahora podemos:
-
-* 🔥 Hacer una versión más moderna y visual
-* 🇺🇸 Hacer la versión en inglés (muy recomendable si quieres remoto internacional)
-* 🎯 Ajustarlo más agresivamente para reclutadores
-* 💎 Convertirlo en un README que parezca de perfil mid-level aunque seas junior
-
 Siguiente paso estratégico:
 ¿Quieres que lo hagamos más impactante visualmente o más sobrio y corporativo?
