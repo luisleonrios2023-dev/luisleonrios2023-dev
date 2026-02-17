@@ -113,8 +113,4 @@ Con interés en trabajo remoto en España y proyección futura a nivel internaci
 
 ## 📫 Contacto
 
-* LinkedIn: [Tu enlace aquí]
-
----
-Siguiente paso estratégico:
-¿Quieres que lo hagamos más impactante visualmente o más sobrio y corporativo?
+* LinkedIn: www.linkedin.com/in/luis-armando-león-ríos
