@@ -1,7 +1,6 @@
 # 👋 Hola, soy Luis
 
-💻 Desarrollador de Software en España
-🚀 En transición hacia desarrollo web Fullstack (Java & Spring Boot)
+💻 Java & Spring Boot Developer | Experiencia en entorno empresarial SQL | En transición a Fullstack Web
 📚 Actualmente mejorando mi nivel de inglés (objetivo B2)
 
 ---
@@ -12,11 +11,18 @@ Soy desarrollador con **1 año y medio de experiencia profesional en entorno emp
 
 Mi experiencia se ha centrado en:
 
-* Adaptación de producto existente a necesidades de cliente
-* Gestión y consulta de bases de datos
+* Adaptación de soluciones corporativas a requerimientos específicos de cliente.
+* Gestión y manipulación de grandes volúmenes de datos en entorno empresarial.
 * Trabajo en entornos estructurados y corporativos
 
-Actualmente estoy orientando mi carrera hacia el **desarrollo web fullstack con Java y Spring Boot**, aplicando buenas prácticas, organización del código y despliegue con contenedores.
+## 🚀 Actualmente enfocado en
+
+- Desarrollo de APIs REST con Spring Boot
+- Seguridad con Spring Security
+- Persistencia con JPA / Hibernate
+- Contenedorización con Docker
+- Mejora continua en arquitectura y buenas prácticas
+
 
 Me considero una persona **responsable, autodidacta y enfocada en mantener el código limpio y bien estructurado**.
 
@@ -107,7 +113,7 @@ Actualmente busco oportunidades como:
 * Desarrollador Backend Java
 * Desarrollador Fullstack Junior
 
-Con interés en trabajo remoto en España y proyección futura a nivel internacional.
+Interesado en oportunidades remotas con proyección internacional. Actualmente mejorando nivel de inglés (B2 en progreso).
 
 ---
 
