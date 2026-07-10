@@ -33,7 +33,73 @@ Actualmente estoy orientando mi carrera hacia el desarrollo fronted, con especia
 
 ### Backend
 
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
+       alt="PHP"
+       title="PHP"
+       width="40"
+       height="40">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+       alt="Java"
+       title="Java"
+       width="40"
+       height="40">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
+       alt="Spring Boot"
+       title="Spring Boot"
+       width="40"
+       height="40">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"
+       alt="Django"
+       title="Django"
+       width="40"
+       height="40">
+</p>
+
+### Bases de datos
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+       alt="MySQL"
+       title="MySQL"
+       width="40"
+       height="40">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"
+       alt="Oracle Database"
+       title="Oracle Database"
+       width="40"
+       height="40">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"
+       alt="SQLite"
+       title="SQLite"
+       width="40"
+       height="40">
+</p>
+
 ### Herramientas
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+       alt="Git"
+       title="Git"
+       width="40"
+       height="40">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
+       alt="Docker"
+       title="Docker"
+       width="40"
+       height="40">
+</p>
+
+<p>
+  <strong>Otras herramientas:</strong> FileZilla · PuTTY
+</p>
 
 ---
 
