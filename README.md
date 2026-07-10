@@ -1,30 +1,23 @@
-# 👋 Hola, soy Luis
+# 👋 Hola, soy Luis Armando León
 
-💻 Java & Spring Boot Developer | Experiencia en entorno empresarial SQL | En transición a Fullstack Web
-📚 Actualmente mejorando mi nivel de inglés (objetivo B2)
+Desarrollador Web Junior
+
+PHP • HTML • CSS • JavaScript • Bootstrap
+
+Actualmente aprendiendo React.
 
 ---
 
 ## 🧠 Sobre mí
 
-Soy desarrollador con **1 año y medio de experiencia profesional en entorno empresarial**, trabajando en mantenimiento y adaptación de soluciones de gestión interna de empleados en entornos basados en COBOL y bases de datos SQL.
-
-Mi experiencia se ha centrado en:
-
-* Adaptación de soluciones corporativas a requerimientos específicos de cliente.
-* Gestión y manipulación de grandes volúmenes de datos en entorno empresarial.
-* Trabajo en entornos estructurados y corporativos
+Trabaje un 1 año y medio  como Consultor Junior de Tecnologías de la información en Sopra HR Software. Adqueri experiencia en la administración de bases de datos SQL Oracle y la gestión de archivos mediante Putty y Filezilla, en la recogida de requisitos con clientes, diseño de plantillas Excel para la facilitación de la migración e integración de datos. Además de elaboración de documentación técnica  de los desarrollos realizados para asegurar su mantenimiento y seguimiento.
 
 ## 🚀 Actualmente enfocado en
 
-- Desarrollo de APIs REST con Spring Boot
-- Seguridad con Spring Security
-- Persistencia con JPA / Hibernate
-- Contenedorización con Docker
-- Mejora continua en arquitectura y buenas prácticas
-
-
-Me considero una persona **responsable, autodidacta y enfocada en mantener el código limpio y bien estructurado**.
+- JavaScript
+- TypeScript 
+- React y React Router
+- Tailwind
 
 ---
 
@@ -42,14 +35,12 @@ Me considero una persona **responsable, autodidacta y enfocada en mantener el c�
 
 ## 🛠️ Stack Tecnológico
 
-### Lenguajes
+### Fronted
 
-* Java
-* SQL
-* HTML5
-* CSS3
+![Icono HTML](https://cdn-icons-png.flaticon.com/256/174/174854.png)HTML
+![Icono CSS](https://cdn-icons-png.flaticon.com/256/5968/5968242.png)CSS3
 * JavaScript
-* COBOL (conocimientos básicos en entorno profesional)
+* Bootstrap
 
 ### Backend
 
