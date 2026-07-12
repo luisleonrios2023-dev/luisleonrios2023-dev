@@ -118,8 +118,6 @@ Actualmente estoy orientando mi carrera hacia el desarrollo frontend, con especi
           
 </p>
 
-**Otras herramientas:** PuTTY
-
 ---
 
 ## 📫 Contacto
