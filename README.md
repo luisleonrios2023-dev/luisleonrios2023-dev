@@ -12,9 +12,9 @@ Actualmente estoy reforzando mis conocimientos de JavaScript y comenzando a apre
 
 Soy desarrollador web junior con formación en Desarrollo de Aplicaciones Web y Desarrollo de Aplicaciones Multiplataforma.
 
-Cuento con experiencia profesional en diferentes entornos tecnológicos. Durante mi etapa en Sopra Steria participé en la adaptación de una aplicación empresarial para distintos clientes, la administración de bases de datos Oracle, la recogida de requisitos y la elaboración de documentación técnica.
+Cuento con experiencia profesional en mantenimiento y evolución de aplicaciones. En Sopra Steria participé en la adaptación de una aplicación empresarial para diferentes clientes, la administración de bases de datos Oracle, la recogida de requisitos y la elaboración de documentación técnica.
 
-Posteriormente, durante mis prácticas en Viaweb, trabajé en el desarrollo y mejora de páginas web con HTML, CSS, Bootstrap y PHP. Entre mis tareas se encontraban la creación de interfaces responsive, la corrección de incidencias y la publicación de actualizaciones mediante FileZilla.
+Durante mis prácticas en Viaweb trabajé en el desarrollo y mejora de páginas web con HTML, CSS, Bootstrap y PHP, creando interfaces responsive, corrigiendo incidencias y publicando actualizaciones mediante FileZilla.
 
 Actualmente estoy orientando mi carrera hacia el desarrollo frontend, con especial interés en la creación de interfaces web funcionales, responsive y fáciles de utilizar.
 
