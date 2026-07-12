@@ -25,30 +25,26 @@ Actualmente estoy orientando mi carrera hacia el desarrollo frontend, con especi
 ### Frontend
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"
-       alt="HTML5"
-       title="HTML5"
-       width="40"
-       height="40">
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" 
+    alt="HTML5"
+    title="HTML5"
+    width="40"
+    height="40">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"
     alt="CSS3"
     title="CSS3"
     width="40"
     height="40">
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
     alt="JavaScript"
     title="JavaScript"
     width="40"
     height="40">
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg"
     alt="Bootstrap"
     title="Bootstrap"
     width="40"
     height="40">
-
 </p>
 
 ### Backend
